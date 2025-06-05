@@ -1,2 +1,4 @@
-# Games Supported
-Prison Life, Ninja Legends, Arsenal, Blue Lock Rivals
+# Key Scripts
+Prison Life
+# Normal Scripts
+(soon)
